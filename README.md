@@ -1,4 +1,11 @@
-## Hi there 👋
+
+# 👋 Hi, I'm Nishtha!
+
+🎓 BTech CSE student  
+💡 Passionate about web development, desktop apps & inclusive tech  
+🚀 Always learning, building, and exploring new ideas in tech  
+🤝 Open to collaboration and growth opportunities
+📫 Reach out on nishthathakur56@gmail.com
 
 <!--
 **Nishtha56/Nishtha56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
